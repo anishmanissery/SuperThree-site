@@ -1,0 +1,87 @@
+.myLinks a {
+  text-decoration: none;
+}
+.myLinks a:hover {
+  text-decoration: underline;
+}
+strong {
+  font-weight: 600;
+}
+th {
+  font-weight: 600;
+}
+li::marker {
+  color: #aaa;
+}
+td, th {
+  color: #212529 !important;
+}
+
+.mySections {
+  line-height: 1.7;
+}
+
+.sponsorsList a {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+}
+.sponsorsList span {
+  color: #696969;
+}
+.sponsorsList img {
+  max-width: 75%;
+  max-height: 75%;
+}
+
+.superSponsors a {
+  width: 346px; 
+  height: 130px;
+  line-height: 124px; 
+  margin: 0 12px 10px 0;
+}
+.platinumSponsors a {
+  width: 306px; 
+  height: 114px;
+  line-height: 114px; 
+  margin: 0 12px 10px 0;
+}
+.goldSponsors a {
+  width: 236px; 
+  height: 94px;
+  line-height: 94px; 
+  margin: 0 10px 10px 0;
+}
+.silverSponsors a, .specialThanks a {
+  width: 169px; 
+  height: 69px;
+  line-height: 69px; 
+  margin: 0 10px 10px 0;
+}
+
+.myLine {
+  height: 1px;
+  background-color:#999;
+  border: none;
+}
+.myLine2 {
+  height: 1px;
+  background-color:blue;
+  border: none;
+}
+.myCode {
+  background-color: #f1f1f1;
+  padding: .15em .3em;
+  border-radius: 4px;
+  color: #476582;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.tiersTable {
+  table-layout: auto;
+  width: auto;
+}
+
+.analysisDescription {
+  font-size: 1.11rem !important;
+}
