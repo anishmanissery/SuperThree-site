@@ -1,0 +1,167 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Anish Manissery",
+    "email": "superthreeindicator@gmail.com",
+    "phone": "+918129796290",
+    "description": "I am a dedicated developer with a passion for contributing to the open-source community. I created SuperThree, a powerful technical analysis indicator freely accessible to everyone, designed to help identify uptrends, downtrends, and sideways trends.\n\nYour contributions enable me to dedicate more time to enhancing the SuperThree indicator and developing new indicators, all of which will be released under the open-source MIT license and made available to everyone at no cost.",
+    "webpageUrl": {
+      "url": "https://superthreeindicator.com",
+      "wellKnown": "https://github.com/anishmanissery/SuperThree/blob/main/.well-known/funding-manifest-urls"
+    }
+  },
+  "projects": [
+    {
+      "guid": "superthree",
+      "name": "SuperThree",
+      "description": "SuperThree is a powerful technical analysis indicator designed to easily spot uptrends, downtrends, and sideways trends.\n\nUsing a unique color-coding system, SuperThree highlights different market conditions and potential trading opportunities:\n- Uptrend: green fill\n- Downtrend: red fill\n- Sideways trend: blue fill\n- Counter-trend momentum: blue arrows\n\nThis visual approach allows you to quickly interpret market trends and make informed decisions.",
+      "webpageUrl": {
+        "url": "https://superthreeindicator.com",
+        "wellKnown": "https://github.com/anishmanissery/SuperThree/blob/main/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/anishmanissery/SuperThree",
+        "wellKnown": "https://github.com/anishmanissery/SuperThree/blob/main/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "technical-analysis",
+        "indicators",
+        "trading",
+        "stocks",
+        "stock-market",
+        "crypto",
+        "algorithmic-trading",
+        "algo",
+        "education",
+        "user-experience"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github",
+        "type": "other",
+        "address": "https://github.com/sponsors/anishmanissery",
+        "description": "Your contributions enable me to dedicate more time to enhancing the SuperThree indicator and developing new indicators, all of which will be released under the open-source MIT license and made available to everyone at no cost."
+      },
+      {
+        "guid": "paypal",
+        "type": "payment-provider",
+        "address": "https://www.paypal.me/anishmanissery",
+        "description": "You can support me via PayPal, helping fund ongoing improvements, new features for SuperThree, and the development of additional indicators."
+      },
+      {
+        "guid": "bank",
+        "type": "bank",
+        "description": "Direct bank transfers are accepted. Please email for further details."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "platinum",
+        "status": "active",
+        "name": "Platinum",
+        "description": "Your support enables me to dedicate more time to enhancing SuperThree and developing new indicators.\nBenefits: Very large logo placement on all pages of superthreeindicator.com and in the GitHub README.",
+        "amount": 2000,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      },
+      {
+        "guid": "gold",
+        "status": "active",
+        "name": "gold",
+        "description": "Your support enables me to dedicate more time to enhancing SuperThree and developing new indicators.\nBenefits: Prominent logo placement on all pages of superthreeindicator.com and in the GitHub README.",
+        "amount": 1000,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      },
+      {
+        "guid": "silver",
+        "status": "active",
+        "name": "Silver",
+        "description": "Your support enables me to dedicate more time to enhancing SuperThree and developing new indicators.\nBenefits: Medium logo placement on all pages of superthreeindicator.com and in the GitHub README.",
+        "amount": 500,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      },
+      {
+        "guid": "bronze",
+        "status": "active",
+        "name": "Bronze",
+        "description": "Your support enables me to dedicate more time to enhancing SuperThree and developing new indicators.\nBenefits: Small logo placement in the BACKERS.md file of the GitHub project.",
+        "amount": 100,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      },
+      {
+        "guid": "generous-backer",
+        "status": "active",
+        "name": "Generous Backer",
+        "description": "Your support enables me to dedicate more time to enhancing SuperThree and developing new indicators.\nBenefits: Name listed in the BACKERS.md file of the GitHub project, above other individual backers.",
+        "amount": 50,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      },
+      {
+        "guid": "individual-backer",
+        "status": "active",
+        "name": "Individual Backer",
+        "description": "Your support enables me to dedicate more time to enhancing SuperThree and developing new indicators.\nBenefits: Name listed in the BACKERS.md file of the GitHub project.",
+        "amount": 5,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      },
+      {
+        "guid": "any-plan",
+        "status": "active",
+        "name": "Goodwill Support",
+        "description": "Contribute any amount you'd like to show your support for the project. Every contribution helps and is greatly appreciated.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
