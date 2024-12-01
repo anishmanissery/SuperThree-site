@@ -85,3 +85,6 @@ td, th {
 .analysisDescription {
   font-size: 1.11rem !important;
 }
+.chartImage {
+  max-width: 100%;
+}
