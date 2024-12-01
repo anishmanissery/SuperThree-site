@@ -19,7 +19,7 @@
       "description": "SuperThree is a powerful technical analysis indicator designed to easily spot uptrends, downtrends, and sideways trends.\n\nUsing a unique color-coding system, SuperThree highlights different market conditions and potential trading opportunities:\n- Uptrend: green fill\n- Downtrend: red fill\n- Sideways trend: blue fill\n- Counter-trend momentum: blue arrows\n\nThis visual approach allows you to quickly interpret market trends and make informed decisions.",
       "webpageUrl": {
         "url": "https://superthreeindicator.com",
-        "wellKnown": "https://github.com/anishmanissery/SuperThree/blob/main/.well-known/funding-manifest-urls"
+        "wellKnown": "https://superthreeindicator.com/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/anishmanissery/SuperThree",
